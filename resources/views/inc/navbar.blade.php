@@ -12,7 +12,7 @@
 
             <!-- Branding Image -->
             <a class="navbar-brand" href="{{ url('/') }}">
-                Laravel TUT {{-- {{ config('app.name') }} --}}
+                {{ config('app.name') }}
             </a>
         </div>
 
